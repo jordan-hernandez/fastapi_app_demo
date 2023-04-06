@@ -4,7 +4,8 @@ __pycache__
 *.pyd
 .Python
 env/
-venv/
+fastapi_env/
+fastapi
 pip-log.txt
 pip-delete-this-directory.txt
 .tox/
