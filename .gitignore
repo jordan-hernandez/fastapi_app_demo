@@ -1,2 +1,4 @@
 venv
 .DS_Store
+fastapi_env
+nota_importante.txt
