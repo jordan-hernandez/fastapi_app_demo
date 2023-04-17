@@ -25,7 +25,7 @@ classes = [
     "Malayalam",
     "Portugeese",
     "Russian",
-    "Spanish",
+    "Español",
     "Sweedish",
     "Tamil",
     "Turkish",
